@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Rosanna Chung</title>
+        <meta name="description" content="Rosanna Chung, Designer based in Toronto">
+        <link rel="stylesheet" href="rosannachung.css">
+    </head>
+    <body>
+        <div class="main">
+        <div class="left">
+            <h1>Rosanna Chung</h1>
+        </div>
+            <div class="right">
+        <div>
+            <h1>Designer focused on interaction design, visual design, and information visualization.</h1>
+        </div> 
+        <div class="section">
+            <h2>Current</h2>
+            <p>Information Designer @ ThinkData Works</p>
+        </div> 
+        <div class="section">
+            <h2>Previous Work</h2>
+            <p>RBC Technology &amp; Operations</p>
+            <p>BC Women's Health Foundation</p>
+            <p>Geering Up Engineering Outreach</p>
+            <p>Allard School of Law</p>
+            <p>University of British Columbia</p>
+        </div> 
+        <div class="section">
+            <h2>Contact</h2>
+            <p><a href="mailto:chungrosanna@outlook.com" target="_blank">Email</a>   <a> / </a>  <a href="https://www.linkedin.com/in/rosannachung/" target="_blank">LinkedIn</a></p>
+        </div> 
+                </div>
+        </div>
+    </body>
 
-You can use the [editor on GitHub](https://github.com/rosannachung/rosanna-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosannachung/rosanna-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
+        
